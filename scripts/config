@@ -1,0 +1,4 @@
+user=node
+host=hkjob2.cc
+root_dir=/home/node/workspace/github.com/beenotung/hkjob2
+pm2_name="hkjob2"
